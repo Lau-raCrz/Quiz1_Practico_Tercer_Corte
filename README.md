@@ -1,1 +1,0 @@
-# Quiz1_Practico_Tercer_Corte
