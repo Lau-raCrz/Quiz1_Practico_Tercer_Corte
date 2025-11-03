@@ -65,7 +65,7 @@ def hilo_camara():
     global frame_compartido
     cap = cv2.VideoCapture(0)
     if not cap.isOpened():
-        print("❌ No se pudo abrir la cámara")
+        print(" No se pudo abrir la cámara")
         return
 
     while True:
